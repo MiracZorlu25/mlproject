@@ -1,1 +1,1 @@
-## end to end machine learning project
+## end to end machine learning projectgit remote add origin https://github.com/MiracZorlu25/mlproject.git
